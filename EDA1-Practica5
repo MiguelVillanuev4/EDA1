@@ -1,0 +1,5 @@
+1.las estructuras que ayudan al manejo de la in formación son las pilas y las colas ya que facilitan el manejo de estas
+2.las pilas son usadas en aplicaciones ya que ayuda a la visualización de diferentes tipos de información por ejemplo WhatsApp
+3.Las colas son elementales ya que por lo general lo primero que le mandas es lo primero que imprime
+4.las formas de acceso a una pila es FILO(first in last out), LOFI(last out first in)
+5.las formas de acceso a una cola son las sentencias LILO(last in last out) y FIFO(first in first out)
